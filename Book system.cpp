@@ -20,7 +20,7 @@ int main () {
      cin >> author;
 
      cout << "4. Enter the publisher's name " << endl;
-     cin >> publisher,
+     cin >> publisher;
 
 return 0;
 }
