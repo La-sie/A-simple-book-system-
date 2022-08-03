@@ -8,8 +8,11 @@ int main () {
      string publisher;
      string search;
 
-     cout << "***Welcome to Reina Books***" <<endl;
-
+     cout << " \t\t ---------------------------------\t\t" << endl;
+     cout << " \t\t***Welcome to Reina Books***\t\t" <<endl;
+     cout << " \t\t ---------------------------------\t\t" << endl;
+ 
+     
      cout << "1.Add a new book" << endl;
      cin >> newBook;
 
