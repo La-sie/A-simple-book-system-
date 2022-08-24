@@ -8,9 +8,9 @@ int main () {
      string publisher;
      string search;
 
-     cout << " \t\t ---------------------------------\t\t" << endl;
+     cout << " \t\t -----------------------------------\t\t" << endl;
      cout << " \t\t***Welcome to Reina Books***\t\t" <<endl;
-     cout << " \t\t ---------------------------------\t\t" << endl;
+     cout << " \t\t -----------------------------------\t\t" << endl;
  
      
      cout << "1.Add a new book" << endl;
