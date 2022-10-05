@@ -25,7 +25,8 @@ int main () {
      cout << "4. Enter the publisher's name " << endl;
      cin >> publisher;
 
-     switch {
+     switch (newBook) {
+          case 1: 
         }
 
 return 0;
