@@ -25,5 +25,8 @@ int main () {
      cout << "4. Enter the publisher's name " << endl;
      cin >> publisher;
 
+     switch {
+        }
+
 return 0;
 }
